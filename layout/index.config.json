@@ -38,5 +38,21 @@
         "validations": [],
         "viewOnly": false,
         "required": false
+    },
+    {
+        "name": "toggle",
+        "displayName": "toggle",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "navbarTitle",
+        "displayName": "navbarTitle",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
     }
 ]
