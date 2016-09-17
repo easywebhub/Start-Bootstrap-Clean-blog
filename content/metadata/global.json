@@ -1,8 +1,8 @@
 {
   "title": "EasyWebHub Advanced Template",
   "description": "Thousands of developers use EasyWebHub to build personal, company, blog, ecommerce websites, support their businesses, and work together on open source technologies.",
-  "url": "http://localhost:3000/",
-  "github-url" : "http://localhost:3000/",
+  "url": "https://easywebhub.github.io/Start-Bootstrap-Clean-blog/",
+  "github-url" : "https://easywebhub.github.io/Start-Bootstrap-Clean-blog/",
   "meta-tag" : {
     "keywords": "website templates, easywebhub, easyapp",
     "author": "VinaAS Co.,Ltd"
